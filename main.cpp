@@ -1,3 +1,30 @@
+/*             THIS PROJECT IS DEVELOPED BY RADHESHYAM PATEL 
+
+ It is a registration system for Airline :
+
+• This project is on the registration system for airlines in c ++ .which allow user's to book a flight to a particular country of his choice
+
+• The user can also choose the date and time of the flight according to their choice
+
+• Different concepts of C ++ are used in making this project
+
+.  This system displays the city and the countries name and the user has to provide Source and Destination
+
+  ⭐ Features
+
+     ---> Domestic Flights
+
+     ---> International Flights
+
+     ---> Payment options
+
+     ---> Cancel Flights
+
+     ---> Check Tickets
+
+*/
+
+
 #include <iostream>
 #include<fstream>
 #include<string.h>
